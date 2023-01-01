@@ -1,0 +1,10 @@
+[project]
+name = "adb-wrapper"
+version = "1.0.0"
+description = "A Python ADB wrapper for executing commands on multiple devices."
+authors = [
+    {name = "Terminus07"}
+]
+license = {text = "MIT License"}
+readme = "README.md"
+requires-python = ">=3.6"
